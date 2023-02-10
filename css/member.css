@@ -1,0 +1,10 @@
+#join_box {	width: 280px; margin-top: 180px; margin-left: 70px; margin-bottom: 20px; }
+#join_box .title { margin-left: 60px; }
+#join_box .col1 { float: left;	width: 80px; margin-top: 4px; }
+#join_box .col2 { float: left;	width: 120px; }
+#join_box .col3 { float: left; margin-top: 3px; margin-left: 15px;}
+#join_box .col5 { float: left; margin-left: 100px;}
+#join_box .form input { width: 120px; height: 22px; }
+#join_box .form { height: 38px; }
+#join_box .id {	margin-top: 20px; }
+#join_box .buttons { text-align: left; margin-top: 10px; margin-left: 50px; }
