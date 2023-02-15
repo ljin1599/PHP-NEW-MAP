@@ -1,7 +1,3 @@
-# 캡스톤 대회
-- 개발 도구 : vs code, xmapp
-- 개발 기간 : 22.03 ~ 22.06
-
 ## 안 심 하 길
 
 - 안심하길 : 귀갓길을 안전하게 갈수 있도록 도움을 주는 어플리케이션
@@ -15,4 +11,6 @@
   <img src="https://user-images.githubusercontent.com/84770467/218943317-d4e09cb6-553a-4539-ae8f-708fac452cb5.png" width="200"        height="420" align="center" >
   <img src="https://user-images.githubusercontent.com/84770467/218943625-feb15ea5-077e-4b90-949f-114d0119bd00.png" width="200"        height="420" align="center" >
 
-
+### 캡스톤 대회
+- 개발 도구 : vs code, xmapp
+- 개발 기간 : 22.03 ~ 22.06
