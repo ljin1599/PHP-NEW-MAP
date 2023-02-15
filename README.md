@@ -8,6 +8,6 @@
 - 채팅 기능으로 실시간 주변 상황 채팅 기능
 - 뉴스, 커뮤니티 기능
 <img src="https://user-images.githubusercontent.com/84770467/218316833-f45d83ac-5d9f-4482-a549-f95572e45abd.png" width="200" height="420" >
+<img src="https://user-images.githubusercontent.com/84770467/218942309-0258d63b-6fa8-42b6-8155-9be05aa99e55.png" width="200" height="420" >
 
-![Uploading KakaoTalk_20220615_185622729.png…]()
 ###  XAMPP
