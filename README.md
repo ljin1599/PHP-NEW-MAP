@@ -7,5 +7,5 @@
 - 사이렌 버튼으로 경찰서 신고 기능
 - 채팅 기능으로 실시간 주변 상황 채팅 기능
 - 뉴스, 커뮤니티 기능
-<img src="https://user-images.githubusercontent.com/84770467/218316833-f45d83ac-5d9f-4482-a549-f95572e45abd.png" width="150" height="220" >
+<img src="https://user-images.githubusercontent.com/84770467/218316833-f45d83ac-5d9f-4482-a549-f95572e45abd.png" width="200" height="420" >
 ###  XAMPP
